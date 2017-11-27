@@ -1,0 +1,118 @@
+body{
+	background-color: #b7b7b7;
+}
+
+.resume{
+	width: 800px;
+	background-color: #f1f1f1;
+	margin: auto;
+}
+
+thead, strong, i, .work{
+	color: #3F7E9C;
+}
+
+a{
+	text-decoration: none;
+}
+
+a.visited{
+	text-decoration: none;
+}
+
+.title{
+	background-color: #3F7E9C;
+	width: 60px;
+	height: 35px;
+	color: white;
+	font-size: 14px;
+	margin-left: 15px;
+}
+
+.title p{
+	text-align: center;
+
+}
+
+.list{
+	align: right;
+}
+
+table {
+	width: 100%;
+}
+
+.first-table{
+	margin-top: 50px;
+}
+
+.name p {
+	top: 0;
+	margin: 0;
+	margin-left: 15px;
+	margin-top: 0px;
+	font-size: 25px;
+}
+
+ul {
+	list-style: none;
+}
+
+.name strong{
+	font-size: 70px;
+}
+
+.name{
+	line-height: 35px;
+}
+
+.second-table{
+	margin-left: 15px;
+	width: 300px;
+	margin-top: 30px;
+}
+
+.work h1{
+	font-size: 15px;
+	margin: 0;
+
+}
+
+.year-work td {
+	vertical-align: top;
+	font-size: 16px;
+}
+
+.work p{
+	font-size: 12px;
+	color: #4C4C4C;
+	line-height: 10px;
+}
+
+.years-work td:first-child {
+	font-size: 5px;
+}
+
+.work{
+	line-height: 15px;
+}
+
+
+progress {
+	width: 110px;
+	background-color: #3F7E9C;
+}
+
+.inlineTable {
+            display: inline-block;
+
+}
+
+.third-table {
+	margin-left: 15px;
+	width: 300px;
+}
+
+.fourth-table{
+	margin-left: 15px;
+}
