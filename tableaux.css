@@ -43,7 +43,7 @@ table {
 }
 
 .first-table{
-	margin-top: 50px;
+	margin-top: 30px;
 }
 
 .name p {
@@ -69,7 +69,8 @@ ul {
 .second-table{
 	margin-left: 15px;
 	width: 300px;
-	margin-top: 30px;
+	margin-top: 60px;
+	height: 600px;
 }
 
 .work h1{
@@ -78,15 +79,17 @@ ul {
 
 }
 
-.year-work td {
+.years-work td {
 	vertical-align: top;
 	font-size: 16px;
+	color: red;
+	height: 600;
 }
 
 .work p{
-	font-size: 12px;
+	font-size: 13px;
 	color: #4C4C4C;
-	line-height: 10px;
+	line-height: 13px;
 }
 
 .years-work td:first-child {
@@ -99,7 +102,7 @@ ul {
 
 
 progress {
-	width: 110px;
+	width: 150px;
 	background-color: #3F7E9C;
 }
 
@@ -111,8 +114,91 @@ progress {
 .third-table {
 	margin-left: 15px;
 	width: 300px;
+	vertical-align: top;
+	margin-top: 40px;
+	height: 400px;
 }
 
 .fourth-table{
 	margin-left: 15px;
+	margin-top: 20px;
+	height: auto;
 }
+
+.third-table td{
+	font-size: 15px;
+}
+
+.third-table tr th{
+	padding-bottom: 10px;
+}
+
+.SEO{
+	padding: 25px;
+}
+
+.titles-second{
+	text-align: center;
+	font-weight: bold;
+	color: #3F7E9C;
+	font-size: 18px;
+}
+
+.play{
+	vertical-align: top;
+	margin-left: 70px;
+	width: 200px;
+}
+
+.personal{
+	text-align: center;
+	color: #3F7E9C;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.workplay{
+	text-align: center;
+	color: #3F7E9C;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.fifth-table{
+	margin-top: 20px;
+
+}
+
+.wp-title{
+	color: #3F7E9C;
+}
+
+.space{
+	margin: 100px;
+	padding: 100px;
+	height: 100px;
+}
+
+.wp{
+	background-color: #3F7E9C;
+	width: 50px;
+	height: 50px;
+	margin:0;
+	padding: 0;
+	transform: rotate(-65deg);
+}
+
+.image{
+	padding-left: 20px;
+	padding-right: 40px;
+}
+
+.year {
+	margin-top: -40px;
+	font-size: 14px;
+}
+
+
+
+
+
